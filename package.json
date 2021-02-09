@@ -1,0 +1,17 @@
+{
+  "name": "spalo_maker_webhook_refer_example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^1.7.1",
+    "bcryptjs": "^2.4.3",
+    "csv-parse": "^4.14.2",
+    "fs": "0.0.1-security"
+  }
+}
