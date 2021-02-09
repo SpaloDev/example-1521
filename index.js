@@ -6,7 +6,7 @@ const fs = require('fs')
 const csvSync = require('csv-parse/lib/sync')
 
 
-exports.wh_search_sample_csv = (req, res) => {
+exports.webhook_refer_csv = (req, res) => {
 
   if (req.body.webhookKey) {
 
